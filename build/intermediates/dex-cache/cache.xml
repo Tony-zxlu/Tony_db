@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tony/work/project/Tony_DB/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/tony/work/project/Tony_DB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_0352853eafbb973a739f0ed593e465820984f049/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tony/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/tony/work/project/Tony_DB/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_e51e913f6644d4710d0289a14b66d5fec443344d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tony/work/project/Tony_DB/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/tony/work/project/Tony_DB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_3a7d34640f7becb51f9c1d72ea16f667fcdd4f04/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tony/work/project/Tony_DB/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="53beacdc22bfff0006674bde57e9d4c561bebbd7">
+        <dex dex="/Users/tony/work/project/Tony_DB/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5c2d2e915e5e14bcdb3251daca957fc6f0267585/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tony/work/project/Tony_DB/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/tony/work/project/Tony_DB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_1c8f0d5ce55831e0c0edf3344c4fdbe6921fdf1f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tony/work/project/Tony_DB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/tony/work/project/Tony_DB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_77e33bc42ee910185a769a76ac5ae6677f94bba0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tony/work/project/Tony_DB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/tony/work/project/Tony_DB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_4c133dddf9f8e94e9cd6125cb69fb09326f74b79/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tony/work/project/Tony_DB/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f032ecaf066ecd5e86f635116675150e3288f57f">
+        <dex dex="/Users/tony/work/project/Tony_DB/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b18f97e1364d7214ed1c2031c4df640d81c4c6a9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tony/work/project/Tony_DB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/tony/work/project/Tony_DB/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_6b5982b2f818d1d4eda3f0dd2b6bbbed287f1e17/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tony/work/project/Tony_DB/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/tony/work/project/Tony_DB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_02ca71bc85243780a35df11e9d2a875793668b70/classes.dex" />
+    </item>
+
+</items>
